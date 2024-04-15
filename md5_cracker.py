@@ -1,5 +1,7 @@
 import hashlib
 import sys
+#Example Hash
+#2b58af6dddbd072ed27ffc86725d7d3a
 
 def md5_hash(word):
     """Convert a given word to its MD5 hash."""
